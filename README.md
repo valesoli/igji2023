@@ -1,2 +1,2 @@
-# igji2023
+# ijgi2023
 Database creation 
